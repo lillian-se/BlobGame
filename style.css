@@ -97,5 +97,11 @@ button{
   }
   
 }
+@media (max-width:500px){
+  .container{
+    transform: scale(0.5);
+  }
+  
+}
 
 
